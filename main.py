@@ -3,9 +3,9 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
 # --- CONFIG SEGURA - LEE DE VARIABLES DEL VPS ---
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CF_TOKEN = os.getenv("CF_TOKEN")
-ZONE_ID = os.getenv("ZONE_ID")
+BOT_TOKEN = "8819531441:AAFtc82ROSVnt6taQylLDYpeFwlmCGdFY8Y"
+CF_TOKEN = "cfat_nDDCFkURc3Zo46FkM1ROTvFbOBFEhyDVLrqiRmls492440b5"
+ZONE_ID = "8ae6be4101fd4dc935d65bd34ab23ac7"
 
 DOMINIO = "golbertvps.org.pe"
 GITHUB_USER = "golbert19"
